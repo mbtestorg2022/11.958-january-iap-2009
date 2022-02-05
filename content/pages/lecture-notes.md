@@ -12,10 +12,113 @@ How to prepare a case ([PDF]({{< baseurl >}}/resources/prepare_case))
 Topics by Session
 -----------------
 
-| DAY # | TOPICS | SLIDES | STUDY QUESTIONS |
-| --- | --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introductions {{< br >}}{{< br >}} Creating public value {{< br >}}{{< br >}} The craft of political management {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/slides1)) {{< br >}}{{< br >}} Coalition building ([PDF]({{< baseurl >}}/resources/coalition_day1)) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/questions1)) |
-| 2 | Organizational strategy and change | ([PDF]({{< baseurl >}}/resources/slides2)) | ([PDF]({{< baseurl >}}/resources/questions2)) |
-| 3 | Strategic collaboration, performance management | ([PDF]({{< baseurl >}}/resources/slides3)) | ([PDF]({{< baseurl >}}/resources/questions3)) |
-| 4 | Structuring work, managing talent | ([PDF]({{< baseurl >}}/resources/slides4)) | ([PDF]({{< baseurl >}}/resources/questions4)) |
-| 5 | Strategic vision and leadership | ([PDF]({{< baseurl >}}/resources/slides5)) | ([PDF]({{< baseurl >}}/resources/questions5))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SLIDES
+{{< thclose >}}
+{{< thopen >}}
+STUDY QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introductions
+
+Creating public value
+
+The craft of political management
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/slides1))
+
+Coalition building ([PDF]({{< baseurl >}}/resources/coalition_day1))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/questions1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Organizational strategy and change
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/questions2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic collaboration, performance management
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/questions3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Structuring work, managing talent
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides4))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/questions4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic vision and leadership
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides5))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/questions5))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
