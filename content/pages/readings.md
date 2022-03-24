@@ -128,7 +128,7 @@ Reasons to collaborate, risks, levels and stages of collaboration or "partnershi
 
 "Finding Black Parents: One Church, One Child." Cambridge, MA: Harvard University, Kennedy School of Government Case Program. Case: C16-88-856.0, 1988.
 
-Briggs, Xavier de Souza. "Perfect Fit or Shotgun Marriage?: Understanding the Power and Pitfalls in Partnerships." The Community Problem-Solving Project @ MIT, June 2003, selected pages. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/cpsproject/images/PerfectFit.pdf))
+Briggs, Xavier de Souza. "Perfect Fit or Shotgun Marriage?: Understanding the Power and Pitfalls in Partnerships." The Community Problem-Solving Project @ MIT, June 2003, selected pages. ([PDF](http://web.mit.edu/cpsproject/images/PerfectFit.pdf))
 
 
 {{< tdclose >}}
